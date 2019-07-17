@@ -10,7 +10,8 @@ module.exports = {
             children: [
               '/你不知道的JavaScript/作用域',
               '/你不知道的JavaScript/词法作用域-函数作用域-块作用域',
-              '/你不知道的JavaScript/This'
+              '/你不知道的JavaScript/This',
+              '/你不知道的JavaScript/对象'
             ]
           },
         ]
